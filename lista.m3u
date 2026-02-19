@@ -26,3 +26,1428 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nR6Fcm2.png" group-title="DEPORTES",DeporTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1645" tvg-logo="http://wohuogai.com:58000/images/c5Gwex2oQPaMkgZPTzhdkMMSrwW_small.jpg" group-title="VOD A LA CARTA",Vaya Pavos
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1645.mkv
+
+#EXTINF:-1 tvg-id="1644" tvg-logo="http://wohuogai.com:58000/images/nF7OxU8DyzmIy5jH6w26Jmavofh_small.jpg" group-title="VOD A LA CARTA",Una Buena Receta
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1644.mkv
+
+#EXTINF:-1 tvg-id="1642" tvg-logo="http://wohuogai.com:58000/images/zQWT270zHKC4xVs0ogUwrU8EwqB_small.jpg" group-title="VOD A LA CARTA",Un Viaje De Diez Metros
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1642.mkv
+
+#EXTINF:-1 tvg-id="1583" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Un Show Mas: La Pelicula
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1583.mkv
+
+#EXTINF:-1 tvg-id="1669" tvg-logo="http://wohuogai.com:58000/images/b94qXd1FcIwgzv0NYMUe2bjrzJR_small.jpg" group-title="VOD A LA CARTA",Un Mundo De Fantasia
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1669.mkv
+
+#EXTINF:-1 tvg-id="1640" tvg-logo="http://wohuogai.com:58000/images/aBHkXfleH4MBTUqrCQYCIGbp9Fd_small.jpg" group-title="VOD A LA CARTA",Un Hombre Irracional
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1640.mkv
+
+#EXTINF:-1 tvg-id="1639" tvg-logo="http://wohuogai.com:58000/images/9wChSuUoQDiBKUnGTcYMkzRha60_small.jpg" group-title="VOD A LA CARTA",Un Heroe Fuera Del Agua
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1639.mkv
+
+#EXTINF:-1 tvg-id="1668" tvg-logo="http://wohuogai.com:58000/images/uznb3nUaOMtKWlvy2mKeZkDkfdj_small.jpg" group-title="VOD A LA CARTA",Un Amor Incondicional
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1668.mkv
+
+#EXTINF:-1 tvg-id="1638" tvg-logo="http://wohuogai.com:58000/images/osuJAcyYCHHFeqHmgUjzzPytoyF_small.jpg" group-title="VOD A LA CARTA",Un Accidente Llamado Amor
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1638.mkv
+
+#EXTINF:-1 tvg-id="1582" tvg-logo="http://wohuogai.com:58000/images/sC2Vg8QfSfZax3Fpw4yqKB2KRV1_small.jpg" group-title="VOD A LA CARTA",True Memoirs Of An International Assassin
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1582.mkv
+
+#EXTINF:-1 tvg-id="1581" tvg-logo="http://wohuogai.com:58000/images/zKu5MNy9QW1a5ZHgv7iAp3kRZpE_small.jpg" group-title="VOD A LA CARTA",Trolls
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1581.mkv
+
+#EXTINF:-1 tvg-id="1580" tvg-logo="http://wohuogai.com:58000/images/36zbHT728v00HbbUBmrsOMu7Hde_small.jpg" group-title="VOD A LA CARTA",Triple 9
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1580.mkv
+
+#EXTINF:-1 tvg-id="1578" tvg-logo="http://wohuogai.com:58000/images/5PWsaNUFlSaGCBuV13yoVYK7OKa_small.jpg" group-title="VOD A LA CARTA",Tierra De Nadie
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1578.mkv
+
+#EXTINF:-1 tvg-id="1510" tvg-logo="http://wohuogai.com:58000/images/vlTPQANjLYTebzFJM1G4KeON0cb_small.jpg" group-title="VOD A LA CARTA",The Scorch Trials
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1510.mkv
+
+#EXTINF:-1 tvg-id="1509" tvg-logo="http://wohuogai.com:58000/images/bjOJFjUffRZQpNQ9g3yvc9F6LBM_small.jpg" group-title="VOD A LA CARTA",The Purge: Election Year
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1509.mkv
+
+#EXTINF:-1 tvg-id="1508" tvg-logo="http://wohuogai.com:58000/images/nhPKl3mDUPXpCrX5onoGmt6kC4U_small.jpg" group-title="VOD A LA CARTA",The Mechanic 2: Resurrection
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1508.mkv
+
+#EXTINF:-1 tvg-id="1507" tvg-logo="http://wohuogai.com:58000/images/6FxOPJ9Ysilpq0IgkrMJ7PubFhq_small.jpg" group-title="VOD A LA CARTA",The Legend Of Tarzan
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1507.mkv
+
+#EXTINF:-1 tvg-id="1506" tvg-logo="http://wohuogai.com:58000/images/2uWb0aSm5cFmRCHP95OdA6hvTEs_small.jpg" group-title="VOD A LA CARTA",The Interview
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1506.mkv
+
+#EXTINF:-1 tvg-id="1504" tvg-logo="http://wohuogai.com:58000/images/jTDXbjCgSaHfmydmydm5ffPpXOy_small.jpg" group-title="VOD A LA CARTA",The Escort
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1504.mkv
+
+#EXTINF:-1 tvg-id="1503" tvg-logo="http://wohuogai.com:58000/images/2eQfjqlvPAxd9aLDs8DvsKLnfed_small.jpg" group-title="VOD A LA CARTA",The Equalizer: El Protector
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1503.mkv
+
+#EXTINF:-1 tvg-id="1502" tvg-logo="http://wohuogai.com:58000/images/oDL2ryJ0sV2bmjgshVgJb3qzvwp_small.jpg" group-title="VOD A LA CARTA",Teenage Mutant Ninja Turtles
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1502.mkv
+
+#EXTINF:-1 tvg-id="1501" tvg-logo="http://wohuogai.com:58000/images/A7HtCxFe7Ms8H7e7o2zawppbuDT_small.jpg" group-title="VOD A LA CARTA",Ted 2
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1501.mkv
+
+#EXTINF:-1 tvg-id="1500" tvg-logo="http://wohuogai.com:58000/images/hSHQQ5OQciraacyaT6FcOFawUup_small.jpg" group-title="VOD A LA CARTA",Take The 10
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1500.mkv
+
+#EXTINF:-1 tvg-id="1499" tvg-logo="http://wohuogai.com:58000/images/XtvR1aSph7X3wqrE2PY66IPzVi_small.jpg" group-title="VOD A LA CARTA",Survivor
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1499.mkv
+
+#EXTINF:-1 tvg-id="1497" tvg-logo="http://wohuogai.com:58000/images/h6O5OE3ueRVdCc7V7cwTiQocI7D_small.jpg" group-title="VOD A LA CARTA",Sully
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1497.mkv
+
+#EXTINF:-1 tvg-id="1496" tvg-logo="http://wohuogai.com:58000/images/ahUiUaeOE2lvnOy7srxaUJbbvYv_small.jpg" group-title="VOD A LA CARTA",Steve Jobs
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1496.mkv
+
+#EXTINF:-1 tvg-id="1495" tvg-logo="http://wohuogai.com:58000/images/weUSwMdQIa3NaXVzwUoIIcAi85d_small.jpg" group-title="VOD A LA CARTA",Star Wars: Episodio 7
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1495.mkv
+
+#EXTINF:-1 tvg-id="1494" tvg-logo="http://wohuogai.com:58000/images/jx5p0aHlbPXqe3AH9G15NvmWaqQ_small.jpg" group-title="VOD A LA CARTA",Star Wars: Episodio 6
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1494.mkv
+
+#EXTINF:-1 tvg-id="1493" tvg-logo="http://wohuogai.com:58000/images/6u1fYtxG5eqjhtCPDx04pJphQRW_small.jpg" group-title="VOD A LA CARTA",Star Wars: Episodio 5
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1493.mkv
+
+#EXTINF:-1 tvg-id="1492" tvg-logo="http://wohuogai.com:58000/images/btTdmkgIvOi0FFip1sPuZI2oQG6_small.jpg" group-title="VOD A LA CARTA",Star Wars: Episodio 4
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1492.mkv
+
+#EXTINF:-1 tvg-id="1491" tvg-logo="http://wohuogai.com:58000/images/tgr5Pdy7ehZYBqBkN2K7Q02xgOb_small.jpg" group-title="VOD A LA CARTA",Star Wars: Episodio 3
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1491.mkv
+
+#EXTINF:-1 tvg-id="1490" tvg-logo="http://wohuogai.com:58000/images/2vcNFtrZXNwIcBgH5e2xXCmVR8t_small.jpg" group-title="VOD A LA CARTA",Star Wars: Episodio 2
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1490.mkv
+
+#EXTINF:-1 tvg-id="1489" tvg-logo="http://wohuogai.com:58000/images/n8V09dDc02KsSN6Q4hC2BX6hN8X_small.jpg" group-title="VOD A LA CARTA",Star Wars: Episodio 1
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1489.mkv
+
+#EXTINF:-1 tvg-id="1487" tvg-logo="http://wohuogai.com:58000/images/w0hzr4eQBk1X4m63fb7sOSt9Bnn_small.jpg" group-title="VOD A LA CARTA",St Vincent
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1487.mkv
+
+#EXTINF:-1 tvg-id="1486" tvg-logo="http://wohuogai.com:58000/images/hE24GYddaxB9MVZl1CaiI86M3kp_small.jpg" group-title="VOD A LA CARTA",Spectre 007
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1486.mkv
+
+#EXTINF:-1 tvg-id="1485" tvg-logo="http://wohuogai.com:58000/images/v7S9RlVKbv1ZtkGgPi6XeJm4QAj_small.jpg" group-title="VOD A LA CARTA",Special Correspondents
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1485.mkv
+
+#EXTINF:-1 tvg-id="1484" tvg-logo="http://wohuogai.com:58000/images/g5vPBCJbBX36oikg68brcl7PU5a_small.jpg" group-title="VOD A LA CARTA",Solo Amigos I
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1484.mkv
+
+#EXTINF:-1 tvg-id="1483" tvg-logo="http://wohuogai.com:58000/images/sDTGLqXanwudLeOXKqfNgkxjSdU_small.jpg" group-title="VOD A LA CARTA",Skiptrace
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1483.mkv
+
+#EXTINF:-1 tvg-id="1482" tvg-logo="http://wohuogai.com:58000/images/AeJYo2wLVL6NpkHxpWIptGbQD0N_small.jpg" group-title="VOD A LA CARTA",Sinister 2
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1482.mkv
+
+#EXTINF:-1 tvg-id="1481" tvg-logo="http://wohuogai.com:58000/images/cISuCIaPdwjJ8YJhBipdslltKl9_small.jpg" group-title="VOD A LA CARTA",Sin Filtro
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1481.mkv
+
+#EXTINF:-1 tvg-id="1480" tvg-logo="http://wohuogai.com:58000/images/sHM6i6se7mwKGRDvW4nQC7dkeKI_small.jpg" group-title="VOD A LA CARTA",Silence
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1480.mkv
+
+#EXTINF:-1 tvg-id="1667" tvg-logo="http://wohuogai.com:58000/images/8EXGHKbT8EQRStYEYlNZUdCP414_small.jpg" group-title="VOD A LA CARTA",Secreto De La Felicidad
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1667.mkv
+
+#EXTINF:-1 tvg-id="1479" tvg-logo="http://wohuogai.com:58000/images/iDRt0bwVqewNZgi9wAicNueTdvC_small.jpg" group-title="VOD A LA CARTA",Sangre De Mi Sangre
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1479.mkv
+
+#EXTINF:-1 tvg-id="1478" tvg-logo="http://wohuogai.com:58000/images/rzMYZYphL9qrbBClQq1Jc0zPMmY_small.jpg" group-title="VOD A LA CARTA",Salve Cesar
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1478.mkv
+
+#EXTINF:-1 tvg-id="1477" tvg-logo="http://wohuogai.com:58000/images/kW5J5u5a7J4MtZi8CNAyFT6nUoJ_small.jpg" group-title="VOD A LA CARTA",Ronaldo
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1477.mkv
+
+#EXTINF:-1 tvg-id="1476" tvg-logo="http://wohuogai.com:58000/images/oP0ZWr6MsaQ1TV7xvnZJMKSfz0H_small.jpg" group-title="VOD A LA CARTA",Rompenieves
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1476.mkv
+
+#EXTINF:-1 tvg-id="1475" tvg-logo="http://wohuogai.com:58000/images/x8Jn7owcCMlatBlYjiWIdOkkjai_small.jpg" group-title="VOD A LA CARTA",Resucitado
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1475.mkv
+
+#EXTINF:-1 tvg-id="1474" tvg-logo="http://wohuogai.com:58000/images/qRhi9UDgfstP9aIJTCoO9u13Q7t_small.jpg" group-title="VOD A LA CARTA",Resident Evil 5
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1474.mkv
+
+#EXTINF:-1 tvg-id="1473" tvg-logo="http://wohuogai.com:58000/images/vcduy3H9RelaER3F7jn7OGby1ws_small.jpg" group-title="VOD A LA CARTA",Resident Evil 4
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1473.mkv
+
+#EXTINF:-1 tvg-id="1472" tvg-logo="http://wohuogai.com:58000/images/84s6e0V8hB87eOI5X3zVtkDboto_small.jpg" group-title="VOD A LA CARTA",Resident Evil 3
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1472.mkv
+
+#EXTINF:-1 tvg-id="1471" tvg-logo="http://wohuogai.com:58000/images/zJFZUe1TgvUevJwg2gmSPBbvutF_small.jpg" group-title="VOD A LA CARTA",Resident Evil 2
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1471.mkv
+
+#EXTINF:-1 tvg-id="1470" tvg-logo="http://wohuogai.com:58000/images/_small.jpg" group-title="VOD A LA CARTA",Resident Evil 1
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1470.mkv
+
+#EXTINF:-1 tvg-id="1469" tvg-logo="http://wohuogai.com:58000/images/eYIAgdWQJlExfqE5xIMSoo1sQEQ_small.jpg" group-title="VOD A LA CARTA",Puerto Ricans In Paris
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1469.mkv
+
+#EXTINF:-1 tvg-id="1468" tvg-logo="http://wohuogai.com:58000/images/jsJlOhVHiz1xXr36616EI8tJ4b2_small.jpg" group-title="VOD A LA CARTA",Pride And Prejudice And Zombies
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1468.mkv
+
+#EXTINF:-1 tvg-id="1467" tvg-logo="http://wohuogai.com:58000/images/uF8OaWV58j0aKHTIvhb93lGmPbF_small.jpg" group-title="VOD A LA CARTA",Premonicion
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1467.mkv
+
+#EXTINF:-1 tvg-id="1466" tvg-logo="http://wohuogai.com:58000/images/fJGXQyhekGgFEHUXQmuR9b3k6Iu_small.jpg" group-title="VOD A LA CARTA",Posesion Infernal
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1466.mkv
+
+#EXTINF:-1 tvg-id="1465" tvg-logo="http://wohuogai.com:58000/images/1bnUlEiZcnJvr9znpl8HbruErIb_small.jpg" group-title="VOD A LA CARTA",Poli De Guarderia 2
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1465.mkv
+
+#EXTINF:-1 tvg-id="1464" tvg-logo="http://wohuogai.com:58000/images/4zfbf70df2ySChbsIEjhAC9oXJ1_small.jpg" group-title="VOD A LA CARTA",Point Break: Sin Limites
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1464.mkv
+
+#EXTINF:-1 tvg-id="1463" tvg-logo="http://wohuogai.com:58000/images/j3XZwBeWgoAbVmkW3JyOme79I2e_small.jpg" group-title="VOD A LA CARTA",Plan De Escape
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1463.mkv
+
+#EXTINF:-1 tvg-id="1461" tvg-logo="http://wohuogai.com:58000/images/wNUDAq5OUMOtxMlz64YaCp7gZma_small.jpg" group-title="VOD A LA CARTA",Piratas Del Caribe 4
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1461.mkv
+
+#EXTINF:-1 tvg-id="1460" tvg-logo="http://wohuogai.com:58000/images/bXb00CkHqx7TPchTGG131sWV59y_small.jpg" group-title="VOD A LA CARTA",Piratas Del Caribe 3
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1460.mkv
+
+#EXTINF:-1 tvg-id="1459" tvg-logo="http://wohuogai.com:58000/images/waFr5RVKaQ9dzOt3nQuIVB1FiPu_small.jpg" group-title="VOD A LA CARTA",Piratas Del Caribe 2
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1459.mkv
+
+#EXTINF:-1 tvg-id="1457" tvg-logo="http://wohuogai.com:58000/images/34y6Qv8nIqvHhYnB8IOAzbf0VFM_small.jpg" group-title="VOD A LA CARTA",Piedad
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1457.mkv
+
+#EXTINF:-1 tvg-id="1456" tvg-logo="http://wohuogai.com:58000/images/3dYMkjzABC2KRvyHvBjhEg4gaBj_small.jpg" group-title="VOD A LA CARTA",Pesadillas
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1456.mkv
+
+#EXTINF:-1 tvg-id="1455" tvg-logo="http://wohuogai.com:58000/images/2c9utC3RGiw5NrqB72YIbp00uiF_small.jpg" group-title="VOD A LA CARTA",Paranormal Movie 2
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1455.mkv
+
+#EXTINF:-1 tvg-id="1454" tvg-logo="http://wohuogai.com:58000/images/diEAZtU6KJzo6VStL5US8arkdIQ_small.jpg" group-title="VOD A LA CARTA",Padres Por Desigual
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1454.mkv
+
+#EXTINF:-1 tvg-id="1453" tvg-logo="http://wohuogai.com:58000/images/vHTXN00kJktCbSLV50Vbk9siNiX_small.jpg" group-title="VOD A LA CARTA",Ouija
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1453.mkv
+
+#EXTINF:-1 tvg-id="1452" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Otro Dia Para Matar
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1452.mkv
+
+#EXTINF:-1 tvg-id="1451" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Operacion Skyfall
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1451.mkv
+
+#EXTINF:-1 tvg-id="1450" tvg-logo="http://wohuogai.com:58000/images/8b54J6gCM27QodPBoBWAcC9JHnd_small.jpg" group-title="VOD A LA CARTA",Ojala Estuviera Aqui
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1450.mkv
+
+#EXTINF:-1 tvg-id="1448" tvg-logo="http://wohuogai.com:58000/images/qv09dxeJoNQIbalsl47yObGgcc5_small.jpg" group-title="VOD A LA CARTA",Norman Del Norte
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1448.mkv
+
+#EXTINF:-1 tvg-id="1445" tvg-logo="http://wohuogai.com:58000/images/ld6WsaJKRwLzqPCulRo24XZDtuL_small.jpg" group-title="VOD A LA CARTA",No Manches Frida
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1445.mkv
+
+#EXTINF:-1 tvg-id="1447" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",No Llores Vuelve
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1447.mkv
+
+#EXTINF:-1 tvg-id="1444" tvg-logo="http://wohuogai.com:58000/images/6vT35MJ67U3llfi6W7MbM5r2dav_small.jpg" group-title="VOD A LA CARTA",Never Back Down
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1444.mkv
+
+#EXTINF:-1 tvg-id="1443" tvg-logo="http://wohuogai.com:58000/images/jjBgi2r5cRt36xF6iNUEhzscEcb_small.jpg" group-title="VOD A LA CARTA",Mundo Jurasico
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1443.mkv
+
+#EXTINF:-1 tvg-id="1441" tvg-logo="http://wohuogai.com:58000/images/rRzePOVZ0wd2CUFeoiP3ge0gPka_small.jpg" group-title="VOD A LA CARTA",Monster High
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1441.mkv
+
+#EXTINF:-1 tvg-id="1439" tvg-logo="http://wohuogai.com:58000/images/q0R4crx2SehcEEQEkYObktdeFy_small.jpg" group-title="VOD A LA CARTA",Minions
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1439.mkv
+
+#EXTINF:-1 tvg-id="1438" tvg-logo="http://wohuogai.com:58000/images/k2lVWTsJ1s3e28qAoAwynGLWoKN_small.jpg" group-title="VOD A LA CARTA",Miles Ahead
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1438.mkv
+
+#EXTINF:-1 tvg-id="1437" tvg-logo="http://wohuogai.com:58000/images/fqIjExm1RJEkbGPtMBXnP20MmHm_small.jpg" group-title="VOD A LA CARTA",Midnight Special
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1437.mkv
+
+#EXTINF:-1 tvg-id="1436" tvg-logo="http://wohuogai.com:58000/images/gN7Su6RP9zDXJigHGyGLnRaWqsb_small.jpg" group-title="VOD A LA CARTA",Mi Gran Boda Griega 2
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1436.mkv
+
+#EXTINF:-1 tvg-id="1435" tvg-logo="http://wohuogai.com:58000/images/cZEx6mB5Ftnt7LvlDjTKXcrTvyg_small.jpg" group-title="VOD A LA CARTA",Mi Abuelo Es Un Peligro
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1435.mkv
+
+#EXTINF:-1 tvg-id="1434" tvg-logo="http://wohuogai.com:58000/images/6K5JOW6HmrwJnP0VILq667cspnS_small.jpg" group-title="VOD A LA CARTA",Mente Implacable
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1434.mkv
+
+#EXTINF:-1 tvg-id="1433" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Mcfarland Sin Limites
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1433.mkv
+
+#EXTINF:-1 tvg-id="1432" tvg-logo="http://wohuogai.com:58000/images/uPUO9Fvvt0mkxrr5vfuHB8dU3p7_small.jpg" group-title="VOD A LA CARTA",Masterminds
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1432.mkv
+
+#EXTINF:-1 tvg-id="1431" tvg-logo="http://wohuogai.com:58000/images/x5yYRzToOwJROKWhh2adRS6dCWs_small.jpg" group-title="VOD A LA CARTA",Marte
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1431.mkv
+
+#EXTINF:-1 tvg-id="1430" tvg-logo="http://wohuogai.com:58000/images/3iOYH67ZPflBMDMMkEv2tKRX4xe_small.jpg" group-title="VOD A LA CARTA",Marauders
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1430.mkv
+
+#EXTINF:-1 tvg-id="1429" tvg-logo="http://wohuogai.com:58000/images/27SiV4EBHcTBMz4IKANjhX5iIoX_small.jpg" group-title="VOD A LA CARTA",Maldita Navidad
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1429.mkv
+
+#EXTINF:-1 tvg-id="1428" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Maldicion Ancestral
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1428.mkv
+
+#EXTINF:-1 tvg-id="1427" tvg-logo="http://wohuogai.com:58000/images/mFt7Oo3pf8f1BZAdWLyUpYM63aT_small.jpg" group-title="VOD A LA CARTA",Maggie
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1427.mkv
+
+#EXTINF:-1 tvg-id="1426" tvg-logo="http://wohuogai.com:58000/images/1z7Bxnxi1lgO0ksc6peI4UssEPf_small.jpg" group-title="VOD A LA CARTA",Lugares Oscuros
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1426.mkv
+
+#EXTINF:-1 tvg-id="1425" tvg-logo="http://wohuogai.com:58000/images/sa84rNBCvCFiqpnMyG7aE6pTzVC_small.jpg" group-title="VOD A LA CARTA",Lost River
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1425.mkv
+
+#EXTINF:-1 tvg-id="1424" tvg-logo="http://wohuogai.com:58000/images/cezWGskPY5x7GaglTTRN4Fugfb8_small.jpg" group-title="VOD A LA CARTA",Los Vengadores
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1424.mkv
+
+#EXTINF:-1 tvg-id="1422" tvg-logo="http://wohuogai.com:58000/images/4gpW4MkRI0BB17GHOJzXq0WamDP_small.jpg" group-title="VOD A LA CARTA",Los Soldados Secretos De Bengasi
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1422.mkv
+
+#EXTINF:-1 tvg-id="1419" tvg-logo="http://wohuogai.com:58000/images/yLnbPJcd4nZeK9QQZro4GIDftyY_small.jpg" group-title="VOD A LA CARTA",Los Principios Del Cuidado
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1419.mkv
+
+#EXTINF:-1 tvg-id="1414" tvg-logo="http://wohuogai.com:58000/images/dnYXJZgstixBsOjF4JJrPCDRd2n_small.jpg" group-title="VOD A LA CARTA",Los Picapiedra
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1414.mkv
+
+#EXTINF:-1 tvg-id="1418" tvg-logo="http://wohuogai.com:58000/images/_small.jpg" group-title="VOD A LA CARTA",Los Ojos Del Mal
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1418.mkv
+
+#EXTINF:-1 tvg-id="1417" tvg-logo="http://wohuogai.com:58000/images/ybOmHUVVXcwBQErjw7tmeE97fpO_small.jpg" group-title="VOD A LA CARTA",Los Mundos De Coraline
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1417.mkv
+
+#EXTINF:-1 tvg-id="1413" tvg-logo="http://wohuogai.com:58000/images/5pDLzwHl1v3V9ZiGrRSPbhFMoaI_small.jpg" group-title="VOD A LA CARTA",Los Ladrones
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1413.mkv
+
+#EXTINF:-1 tvg-id="1416" tvg-logo="http://wohuogai.com:58000/images/gj282Pniaa78ZJfbaixyLXnXEDI_small.jpg" group-title="VOD A LA CARTA",Los Juegos Del Hambre 1
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1416.mkv
+
+#EXTINF:-1 tvg-id="1412" tvg-logo="http://wohuogai.com:58000/images/hU0E130tsGdsYa4K9lc3Xrn5Wyt_small.jpg" group-title="VOD A LA CARTA",Los Ilusionistas 2
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1412.mkv
+
+#EXTINF:-1 tvg-id="1411" tvg-logo="http://wohuogai.com:58000/images/yHz2wt8uSHkWPMwjbJOQH3W9wmF_small.jpg" group-title="VOD A LA CARTA",Los Doble Vida
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1411.mkv
+
+#EXTINF:-1 tvg-id="1666" tvg-logo="http://wohuogai.com:58000/images/xtAWnkPVxrcLw9LGh51ZC0cTGnv_small.jpg" group-title="VOD A LA CARTA",Los Amigos No Se Eligen
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1666.mkv
+
+#EXTINF:-1 tvg-id="1410" tvg-logo="http://wohuogai.com:58000/images/9j2AmDhZvdwMyYKpqe4CtBkN1Tw_small.jpg" group-title="VOD A LA CARTA",Londres Bajo Fuego
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1410.mkv
+
+#EXTINF:-1 tvg-id="1409" tvg-logo="http://wohuogai.com:58000/images/jZtCY6mfA51eJIt77v1k557wQTZ_small.jpg" group-title="VOD A LA CARTA",Lo Mejor De Mi
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1409.mkv
+
+#EXTINF:-1 tvg-id="1408" tvg-logo="http://wohuogai.com:58000/images/8SBHU1oLnj6gurSR9o5EQGCPrCK_small.jpg" group-title="VOD A LA CARTA",Life After Beth
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1408.mkv
+
+#EXTINF:-1 tvg-id="1407" tvg-logo="http://wohuogai.com:58000/images/jgtStjg33PH3TwBrMKKhvNL5J1c_small.jpg" group-title="VOD A LA CARTA",Libranos Del Mal
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1407.mkv
+
+#EXTINF:-1 tvg-id="1406" tvg-logo="http://wohuogai.com:58000/images/X7S1RtotXOZNV7OlgCfh5VKZSB_small.jpg" group-title="VOD A LA CARTA",Letras Explicitas
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1406.mkv
+
+#EXTINF:-1 tvg-id="1405" tvg-logo="http://wohuogai.com:58000/images/sNlBs5ePyuTMFaBbUHabfpobjZX_small.jpg" group-title="VOD A LA CARTA",Lego Scooby
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1405.mkv
+
+#EXTINF:-1 tvg-id="1404" tvg-logo="http://wohuogai.com:58000/images/eyaGDrV1ScVGiXrBifb8AuoQ3ko_small.jpg" group-title="VOD A LA CARTA",Lego Liga De La Justicia
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1404.mkv
+
+#EXTINF:-1 tvg-id="1296" tvg-logo="http://wohuogai.com:58000/images/eyaGDrV1ScVGiXrBifb8AuoQ3ko_small.jpg" group-title="VOD A LA CARTA",Lego Justice League
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1296.mkv
+
+#EXTINF:-1 tvg-id="1403" tvg-logo="http://wohuogai.com:58000/images/pTxUipem8ComURhR82JqaQcNMMK_small.jpg" group-title="VOD A LA CARTA",La Visita
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1403.mkv
+
+#EXTINF:-1 tvg-id="1302" tvg-logo="http://wohuogai.com:58000/images/WLQN5aiQG8wc9SeKwixW7pAR8K_small.jpg" group-title="VOD A LA CARTA",La Vida Secreta De Tus Mascotas
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1302.mkv
+
+#EXTINF:-1 tvg-id="1401" tvg-logo="http://wohuogai.com:58000/images/vdK1f9kpY5QEwrAiXs9R7PlerNC_small.jpg" group-title="VOD A LA CARTA",La Verdad Duele
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1401.mkv
+
+#EXTINF:-1 tvg-id="1294" tvg-logo="http://wohuogai.com:58000/images/_small.jpg" group-title="VOD A LA CARTA",La Sirena
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1294.mkv
+
+#EXTINF:-1 tvg-id="1400" tvg-logo="http://wohuogai.com:58000/images/6w1VjTPTjTaA5oNvsAg0y4H6bou_small.jpg" group-title="VOD A LA CARTA",La Serie Divergente
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1400.mkv
+
+#EXTINF:-1 tvg-id="1397" tvg-logo="http://wohuogai.com:58000/images/cgxEscv6TQRK6a514FwuJOjcqQ5_small.jpg" group-title="VOD A LA CARTA",La Quinta Ola
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1397.mkv
+
+#EXTINF:-1 tvg-id="1396" tvg-logo="http://wohuogai.com:58000/images/sPznOfzPXNaorzFrViGN2jOddgs_small.jpg" group-title="VOD A LA CARTA",La Piramide
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1396.mkv
+
+#EXTINF:-1 tvg-id="1395" tvg-logo="http://wohuogai.com:58000/images/o9GbcdP7rOg2m1NyUnUR3ZwNcTE_small.jpg" group-title="VOD A LA CARTA",La Novia Cadaver
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1395.mkv
+
+#EXTINF:-1 tvg-id="1394" tvg-logo="http://wohuogai.com:58000/images/eEGZgNZgN3sZWwoSaL1u2rTGlzj_small.jpg" group-title="VOD A LA CARTA",La Noche Anterior
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1394.mkv
+
+#EXTINF:-1 tvg-id="1301" tvg-logo="http://wohuogai.com:58000/images/eifGNCSDuxJeS1loAXil5bIGgvC_small.jpg" group-title="VOD A LA CARTA",La Liga De La Justicia
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1301.mkv
+
+#EXTINF:-1 tvg-id="1393" tvg-logo="http://wohuogai.com:58000/images/hKzhV274pkZBSpXfCjUyzbyYKLl_small.jpg" group-title="VOD A LA CARTA",La Leyenda De Rocky
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1393.mkv
+
+#EXTINF:-1 tvg-id="1392" tvg-logo="http://wohuogai.com:58000/images/5vfRMplGxOzMiJu0FGFCA1ic44Q_small.jpg" group-title="VOD A LA CARTA",La Hora Decisiva
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1392.mkv
+
+#EXTINF:-1 tvg-id="1391" tvg-logo="http://wohuogai.com:58000/images/QhbOzpYfBOwrRiuTu9otPk919R_small.jpg" group-title="VOD A LA CARTA",La Historia De Una Abeja
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1391.mkv
+
+#EXTINF:-1 tvg-id="1390" tvg-logo="http://wohuogai.com:58000/images/3mGy3Lkd7FDcF3QN6PQDgxyd6Iy_small.jpg" group-title="VOD A LA CARTA",La Habitacion
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1390.mkv
+
+#EXTINF:-1 tvg-id="1389" tvg-logo="http://wohuogai.com:58000/images/6hnDFFTzKOBk9U1iKpYYTyd7TvW_small.jpg" group-title="VOD A LA CARTA",La Gran Apuesta
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1389.mkv
+
+#EXTINF:-1 tvg-id="1311" tvg-logo="http://wohuogai.com:58000/images/ofUfaj5e6qZtDqTPS5GkEV0H2zH_small.jpg" group-title="VOD A LA CARTA",La Espada Del Dragon
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1311.mkv
+
+#EXTINF:-1 tvg-id="1298" tvg-logo="http://wohuogai.com:58000/images/gRi7lTBBiRBhn9aJID5MdldcJEJ_small.jpg" group-title="VOD A LA CARTA",La Era De Hielo: Choque De Mundos
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1298.mkv
+
+#EXTINF:-1 tvg-id="1310" tvg-logo="http://wohuogai.com:58000/images/fL9hOYyVqPFQdlViYpzyK4q9fg3_small.jpg" group-title="VOD A LA CARTA",La Entrega
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1310.mkv
+
+#EXTINF:-1 tvg-id="1309" tvg-logo="http://wohuogai.com:58000/images/7EenqQdtZjOeBAAlxNtnG1eLHnf_small.jpg" group-title="VOD A LA CARTA",La Decision Amor
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1309.mkv
+
+#EXTINF:-1 tvg-id="1308" tvg-logo="http://wohuogai.com:58000/images/42GFavVvBgFlFgvgdWRYrTHdGYE_small.jpg" group-title="VOD A LA CARTA",La Cueva
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1308.mkv
+
+#EXTINF:-1 tvg-id="1307" tvg-logo="http://wohuogai.com:58000/images/usUYAvVCiGZ4YlX3xBS8fLzjtiO_small.jpg" group-title="VOD A LA CARTA",La Cuarta Fase
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1307.mkv
+
+#EXTINF:-1 tvg-id="1306" tvg-logo="http://wohuogai.com:58000/images/seWQ6UKCrhGH0eP7dFZvmIBQtKF_small.jpg" group-title="VOD A LA CARTA",La Chica Danesa
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1306.mkv
+
+#EXTINF:-1 tvg-id="1297" tvg-logo="http://wohuogai.com:58000/images/9CwaR4p3CK0NAIbZ72LrqUENJup_small.jpg" group-title="VOD A LA CARTA",La Cenicienta 2015
+http://tvpremiumhd.club/lista-gratuita/212925/on/w/1297.mkv
+
+#EXTINF:-1,**** IXTLA ARREOLA ****
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/
+
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,FM HOT PELICULAS
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+
+#EXTINF:-1,FM HOT PELICULAS (Opción 2)
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+
+#EXTINF:0,Life TV
+http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,Orbit TV
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+
+#EXTINF:-1,TELE RED RETRO
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1,Super 3
+http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:-1,LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1,HB TV
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1,OUI TV3
+http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
+
+#EXTINF:-1,Galaxia
+http://server3.prostudionetwork.com:1957/telecontacto/galaxia/chunklist_w500062277.m3u8
+
+#EXTINF:0,Milenio SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1,Efecto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-p.m3u8
+
+#EXTINF:-1,Canal 8
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1,Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO",Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1,Foro TV
+http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
+
+#EXTINF:-1,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1,EFECTO TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+
+#EXTINF:-1,Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+
+#EXTINF:-1,TOTALPLAY TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE03.m3u8
+
+#EXTINF:-1,ADN 40
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8
+
+#EXTINF:-1,AZTECA 7
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8
+
+#EXTINF:-1,AZTECA 1
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL23/PROFILE03.m3u8
+
+#EXTINF:-1,AZTECA 40 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE05.m3u8
+
+#EXTINF:-1,MEXIQUENSE TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE03.m3u8
+
+#EXTINF:-1,AZTECA CORAZON
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL45/PROFILE03.m3u8
+
+#EXTINF:-1,LAS ESTRELLAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE03.m3u8
+
+#EXTINF:-1,CANAL 5 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE05.m3u8
+
+#EXTINF:-1,UNICABLE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL66/PROFILE03.m3u8
+
+#EXTINF:-1,SUNDANCE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL69/PROFILE03.m3u8
+
+#EXTINF:-1,LAS ESTRELLAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+
+#EXTINF:-1,FORO TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
+
+#EXTINF:-1,CANAL 5
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+
+#EXTINF:-1,AZTECA 7 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+
+#EXTINF:-1,CANAL NUEVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+
+#EXTINF:-1,CANAL ONCE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
+
+#EXTINF:-1,AZTECA UNO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+
+#EXTINF:-1,BABY TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE03.m3u8
+
+#EXTINF:-1,GOLDEN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE03.m3u8
+
+#EXTINF:-1,EURO CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE03.m3u8
+
+#EXTINF:-1,FILM&ARTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE03.m3u8
+
+#EXTINF:-1,ADN 40
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
+
+#EXTINF:-1,FORMULA TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE03.m3u8
+
+#EXTINF:-1,MULTIMEDIOS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
+
+#EXTINF:-1,CADENA H
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL169/PROFILE03.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE03.m3u8
+
+#EXTINF:-1,FOX SPORTS 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8
+
+#EXTINF:-1,GOLF
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE03.m3u8
+
+#EXTINF:-1,CNN USA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL185/PROFILE03.m3u8
+
+#EXTINF:-1,CNN USA SD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL186/PROFILE03.m3u8
+
+#EXTINF:-1,CNN ESPAÑOL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE03.m3u8
+
+#EXTINF:-1,FOX NEWS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL188/PROFILE03.m3u8
+
+#EXTINF:-1,BLOOMBERG
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE03.m3u8
+
+#EXTINF:-1,BBC NEWS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL191/PROFILE03.m3u8
+
+#EXTINF:-1,ALJAZEERA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL192/PROFILE03.m3u8
+
+#EXTINF:-1,FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE03.m3u8
+
+#EXTINF:-1,FOX SPORTS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
+
+#EXTINF:-1,CANAL JUDICIAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL196/PROFILE03.m3u8
+
+#EXTINF:-1,HLN CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE03.m3u8
+
+#EXTINF:-1,ANTENA 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE03.m3u8
+
+#EXTINF:-1,FOX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+
+#EXTINF:-1,SONY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+
+#EXTINF:-1,WARNER
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+
+#EXTINF:-1,UNIVERSAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
+
+#EXTINF:-1,FX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
+
+#EXTINF:-1,A&E
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
+
+#EXTINF:-1,AXN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
+
+#EXTINF:-1,TRU TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
+
+#EXTINF:-1,UNICABLE (2)
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
+
+#EXTINF:-1,HOLA TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
+
+#EXTINF:-1,Unknown
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE03.m3u8
+
+#EXTINF:-1,AZCORAZON
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8
+
+#EXTINF:-1,FOX CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
+
+#EXTINF:-1,E! ENTERTAINMENT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
+
+#EXTINF:-1,SYFY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
+
+#EXTINF:-1,ID
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
+
+#EXTINF:-1,TNT SERIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
+
+#EXTINF:-1,GOURMET
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
+
+#EXTINF:-1,GARAJE TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
+
+#EXTINF:-1,GLITZ
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
+
+#EXTINF:-1,FOX LIFE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
+
+#EXTINF:-1,TBS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+
+#EXTINF:-1,TLNOVELAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+
+#EXTINF:-1,AZMUNDO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE03.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
+
+#EXTINF:-1,DISNEY JR
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
+
+#EXTINF:-1,NICK JR.
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
+
+#EXTINF:-1,NICKTOONS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8
+
+#EXTINF:-1,NICK
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
+
+#EXTINF:-1,NICK HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE05.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+
+#EXTINF:-1,XD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
+
+#EXTINF:-1,BOOMERANG
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
+
+#EXTINF:-1,TIIN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
+
+#EXTINF:-1,TOONCAST
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
+
+#EXTINF:-1,FXM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL332/PROFILE03.m3u8
+
+#EXTINF:-1,DE PELICULA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE03.m3u8
+
+#EXTINF:-1,DE PELICULA HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL (2)
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL341/PROFILE03.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
+
+#EXTINF:-1,HISTORY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
+
+#EXTINF:-1,NATGEO WILD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
+
+#EXTINF:-1,DISCOVERY CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+
+#EXTINF:-1,H&H
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
+
+#EXTINF:-1,NAT GEO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
+
+#EXTINF:-1,LIFETIME
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
+
+#EXTINF:-1,SCI
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
+
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
+
+#EXTINF:-1,TLC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
+
+#EXTINF:-1,WOBI
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
+
+#EXTINF:-1,INGENIO TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE03.m3u8
+
+#EXTINF:-1,FOX SERIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
+
+#EXTINF:-1,FOX ACTION
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+
+#EXTINF:-1,FOX MOVIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+
+#EXTINF:-1,FOX CINEMA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
+
+#EXTINF:-1,FOX CLASSICS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
+
+#EXTINF:-1,AZTECA CINEMA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
+
+#EXTINF:-1,CINECANAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
+
+#EXTINF:-1,TNT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
+
+#EXTINF:-1,GOLDEN PLUS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
+
+#EXTINF:-1,FXM (2)
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
+
+#EXTINF:-1,DE PELICULA PLUS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
+
+#EXTINF:-1,AMC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
+
+#EXTINF:-1,SPACE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
+
+#EXTINF:-1,Unknown
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL470/PROFILE03.m3u8
+
+#EXTINF:-1,CINEMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+
+#EXTINF:-1,TNT HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE05.m3u8
+
+#EXTINF:-1,EDGE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
+
+#EXTINF:-1,AMC (2)
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
+
+#EXTINF:-1,SPACE HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE05.m3u8
+
+#EXTINF:-1,STUDIO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
+
+#EXTINF:-1,I SAT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
+
+#EXTINF:-1,TCM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
+
+#EXTINF:-1,TCM HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
+
+#EXTINF:-1,ESPN+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+
+#EXTINF:-1,ESPN 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+
+#EXTINF:-1,FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+
+#EXTINF:-1,PX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+
+#EXTINF:-1,ESPN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+
+#EXTINF:-1,ESPN 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+
+#EXTINF:-1,AYM SPORT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
+
+#EXTINF:-1,MILENIO TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
+
+#EXTINF:-1,TVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
+
+#EXTINF:-1,DW
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL654/PROFILE03.m3u8
+
+#EXTINF:-1,MTV LIVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
+
+#EXTINF:-1,TELHIT PLUS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
+
+#EXTINF:-1,VH1 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
+
+#EXTINF:-1,AZCLIC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
+
+#EXTINF:-1,MTV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
+
+#EXTINF:-1,MTV HITS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
+
+#EXTINF:-1,1 CLASSICS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
+
+#EXTINF:-1,RMS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
+
+#EXTINF:-1,BANDAMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
+
+#EXTINF:-1,VH1
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL735/PROFILE03.m3u8
+
+#EXTINF:-1,MULTIVISION
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+
+#EXTINF:-1,CANAL
+http://ss8.domint.net:2118/tf_str/futu/media_w1046727220.m3u8
+
+#EXTINF:-1,Canal de España
+http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
+
+#EXTINF:1,VIVO 5
+http://stream.grupotelemicro.com/5.m3u8
+
+#EXTINF:1,VIVO 15
+http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8
+
+#EXTINF:-1,ColorVision
+http://ss2.domint.net:2138//cvh_str/colorvisionhd/chunklist_w1806822451.m3u8
+
+#EXTINF:-1,ATB
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1,DRAGON BALL Z
+http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+
+#EXTINF:-1,MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,Fight time (ufc)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1,Disney XD
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+
+#EXTINF:-1,Peques TV
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+
+#EXTINF:-1,Chicos IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1,MAXPRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+
+#EXTINF:-1,FOX CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1,FOX MOVIES
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1,FOX PREMIUM COMEDY (ENG)
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+
+#EXTINF:-1,HBO 2 DUAL (ENG ESP)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+
+#EXTINF:-1,ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+
+#EXTINF:-1,FOX ACTION
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=753994&f=.m3u8
+
+#EXTINF:-1,SPACE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762211&f=.m3u8
+
+#EXTINF:-1,TELEMUNDO INT.
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762212&f=.m3u8
+
+#EXTINF:-1,DHE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762213&f=.m3u8
+
+#EXTINF:-1,FOX COMEDY
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762214&f=.m3u8
+
+#EXTINF:-1,ALJAZEERA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762215&f=.m3u8
+
+#EXTINF:-1,FRANCE 24
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762216&f=.m3u8
+
+#EXTINF:-1,DW
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762217&f=.m3u8
+
+#EXTINF:-1,HOLA TV
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762222&f=.m3u8
+
+#EXTINF:-1,DISCOVERY SCI
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762223&f=.m3u8
+
+#EXTINF:-1,BBC WORLD
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762224&f=.m3u8
+
+#EXTINF:-1,DISCOVERY TURBO
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762225&f=.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762226&f=.m3u8
+
+#EXTINF:-1,ESNE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762227&f=.m3u8
+
+#EXTINF:-1,NATGEO KIDS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762228&f=.m3u8
+
+#EXTINF:-1,TVE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762229&f=.m3u8
+
+#EXTINF:-1,GOLDEN PLUS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762230&f=.m3u8
+
+#EXTINF:-1,GOLDEN PREMIER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762231&f=.m3u8
+
+#EXTINF:-1,FOX MOVIES
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762232&f=.m3u8
+
+#EXTINF:-1,NICK
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762233&f=.m3u8
+
+#EXTINF:-1,CLARO CINEMA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762234&f=.m3u8
+
+#EXTINF:-1,HBO FAMILY
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762235&f=.m3u8
+
+#EXTINF:-1,FX
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762236&f=.m3u8
+
+#EXTINF:-1,TNT SERIES
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762237&f=.m3u8
+
+#EXTINF:-1,VH1
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762239&f=.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762241&f=.m3u8
+
+#EXTINF:-1,CINE LATINO
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762242&f=.m3u8
+
+#EXTINF:-1,FOX LIFE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762243&f=.m3u8
+
+#EXTINF:-1,NAT GEO WILD
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762245&f=.m3u8
+
+#EXTINF:-1,WARNER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762246&f=.m3u8
+
+#EXTINF:-1,LIFE TIME
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762247&f=.m3u8
+
+#EXTINF:-1,FOX CLASSICS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762248&f=.m3u8
+
+#EXTINF:-1,FOX CINEMA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762249&f=.m3u8
+
+#EXTINF:-1,BLOOMBERG
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762250&f=.m3u8
+
+#EXTINF:-1,TV5MONDE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762251&f=.m3u8
+
+#EXTINF:-1,CINECANAL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762252&f=.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762253&f=.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762254&f=.m3u8
+
+#EXTINF:-1,GOURMET
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762255&f=.m3u8
+
+#EXTINF:-1,SUNDANCE TV
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762256&f=.m3u8
+
+#EXTINF:-1,CANAL CATOLICO
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762258&f=.m3u8
+
+#EXTINF:-1,BOOMERANG
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762259&f=.m3u8
+
+#EXTINF:-1,CNN ESPAÑOL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762260&f=.m3u8
+
+#EXTINF:-1,TNT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762262&f=.m3u8
+
+#EXTINF:-1,H2
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762263&f=.m3u8
+
+#EXTINF:-1,Unknown
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762265&f=.m3u8
+
+#EXTINF:-1,DISCOVERY CHANNEL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762266&f=.m3u8
+
+#EXTINF:-1,H&H
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762267&f=.m3u8
+
+#EXTINF:-1,EURO CHANNEL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762268&f=.m3u8
+
+#EXTINF:-1,TLNOVELAS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762269&f=.m3u8
+
+#EXTINF:-1,NICK JR.
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762270&f=.m3u8
+
+#EXTINF:-1,MAX UP
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762271&f=.m3u8
+
+#EXTINF:-1,HBO 2
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762272&f=.m3u8
+
+#EXTINF:-1,CONCERT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762273&f=.m3u8
+
+#EXTINF:-1,TCM
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762274&f=.m3u8
+
+#EXTINF:-1,AXN
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762275&f=.m3u8
+
+#EXTINF:-1,CINEMAX
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762276&f=.m3u8
+
+#EXTINF:-1,UNIVERSAL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762277&f=.m3u8
+
+#EXTINF:-1,TOONCAST
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762278&f=.m3u8
+
+#EXTINF:-1,SONY
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762280&f=.m3u8
+
+#EXTINF:-1,E! ENTERTAINMENT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762281&f=.m3u8
+
+#EXTINF:-1,AZMUNDO
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762282&f=.m3u8
+
+#EXTINF:-1,MULTIPREMIER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762283&f=.m3u8
+
+#EXTINF:-1,MTV
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762284&f=.m3u8
+
+#EXTINF:-1,FXM
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762285&f=.m3u8
+
+#EXTINF:-1,PASIONES
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762286&f=.m3u8
+
+#EXTINF:-1,LAS ESTRELLAS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762288&f=.m3u8
+
+#EXTINF:-1,MTV HITS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762289&f=.m3u8
+
+#EXTINF:-1,DW (2)
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762298&f=.m3u8
+
+#EXTINF:-1,MAX PRIME
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762299&f=.m3u8
+
+#EXTINF:-1,CINEMA DINAMITA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762300&f=.m3u8
+
+#EXTINF:-1,FOX
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762301&f=.m3u8
+
+#EXTINF:-1,HBO SIGNATURE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762302&f=.m3u8
+
+#EXTINF:-1,PARAMOUNT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762305&f=.m3u8
+
+#EXTINF:-1,CANAL CLARO
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762306&f=.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762309&f=.m3u8
+
+#EXTINF:-1,MAS CHIC
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762318&f=.m3u8
+
+#EXTINF:-1,RCN NOVELAS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762320&f=.m3u8
+
+#EXTINF:-1,AMC
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762338&f=.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762339&f=.m3u8
+
+#EXTINF:-1,AZCORAZON
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762340&f=.m3u8
+
+#EXTINF:-1,BABY TV
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762358&f=.m3u8
+
+#EXTINF:-1,Unknown
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758407&f=.m3u8
+
+#EXTINF:-1,BBC WORLD
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758414&f=.m3u8
+
+#EXTINF:-1,GOLF
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758417&f=.m3u8
+
+#EXTINF:-1,ANTENA 3
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758424&f=.m3u8
+
+#EXTINF:-1,CABLE NOTICIAS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758440&f=.m3u8
+
+#EXTINF:-1,Unknown
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758445&f=.m3u8
+
+#EXTINF:-1,DE PELICULA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758453&f=.m3u8
+
+#EXTINF:-1,ID
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758466&f=.m3u8
+
+#EXTINF:-1,MULTIPREMIER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758475&f=.m3u8
+
+#EXTINF:-1,TNT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758477&f=.m3u8
+
+#EXTINF:-1,ESPN
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758479&f=.m3u8
+
+#EXTINF:-1,I SAT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758488&f=.m3u8
+
+#EXTINF:-1,Unknown
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758500&f=.m3u8
+
+#EXTINF:-1,STUDIO
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758506&f=.m3u8
+
+#EXTINF:-1,CINEMA +
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758517&f=.m3u8
+
+#EXTINF:-1,FXM
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758532&f=.m3u8
+
+#EXTINF:-1,Unknown
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758533&f=.m3u8
+
+#EXTINF:-1,GOLDEN PLUS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758534&f=.m3u8
+
+#EXTINF:-1,TELEMUNDO INT.
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758545&f=.m3u8
+
+#EXTINF:-1,NICK 2
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758549&f=.m3u8
+
+#EXTINF:-1,Canal 13
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758560&f=.m3u8
+
+#EXTINF:-1,TLC
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758610&f=.m3u8
+
+#EXTINF:-1,GLITZ
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758627&f=.m3u8
+
+#EXTINF:-1,CLARO SPORTS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762137&f=.m3u8
+
+#EXTINF:-1,FOX FAMILY
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762156&f=.m3u8
+
+#EXTINF:-1,HBO PLUS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762157&f=.m3u8
+
+#EXTINF:-1,FOX ACTION
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762193&f=.m3u8
+
+#EXTINF:-1,H TV
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762194&f=.m3u8
+
+#EXTINF:-1,DISNEY JR.
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762195&f=.m3u8
+
+#EXTINF:-1,MTV LIVE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762196&f=.m3u8
+
+#EXTINF:-1,VE PLUS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762197&f=.m3u8
+
+#EXTINF:-1,A&E
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762204&f=.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762205&f=.m3u8
+
+#EXTINF:-1,1 CLASSIC
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762206&f=.m3u8
+
+#EXTINF:-1,INTI
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762207&f=.m3u8
+
+#EXTINF:-1,CNN INT. USA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762209&f=.m3u8
+
+#EXTINF:-1,FOX NEWS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762210&f=.m3u8
+
+#EXTINF:-1,Luna TV
+http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+
+#EXTINF:0,CDNN 23
+http://138.117.4.70:8079/streams/d/Canal-23/playlist.m3u8
+
+#EXTINF:0,CANAL BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+
+#EXTINF:0,MICRO VISION
+http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:0,Impact Wrestling
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg",PLUTO TV MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg",ACTION MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1,FUEGO TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+
+#EXTINF:-1,LTV CANAL
+http://184.173.181.2:1935/8096/8096/playlist.m3u8
+
+#EXTINF:-1,LOCA TV
+http://184.173.181.2:1935/8022/8022/playlist.m3u8
+
+#EXTINF:-1,LIFE TV
+http://184.173.181.2:1935/8070/8070/playlist.m3u8
+
+#EXTINF:-1,PELIS
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+
+#EXTINF:-1,UNKNOWN
+http://184.173.181.2:1935/8024/8024/playlist.m3u8
+
+#EXTINF:-1,VIDA VISION
+http://184.173.181.2:1935/8036/8036/playlist.m3u8
+
+#EXTINF:-1,FARO VISION
+http://184.173.181.2:1935/8060/8060/playlist.m3u8
+
+#EXTINF:-1,MAR TV
+http://184.173.181.2:1935/8064/8064/playlist.m3u8
+
+#EXTINF:-1,Unknown (8042)
+http://184.173.181.2:1935/8042/8042/playlist.m3u8
+
+#EXTINF:-1,Unknown (8044)
+http://184.173.181.2:1935/8044/8044/playlist.m3u8
+
+#EXTINF:-1,Unknown (8046)
+http://184.173.181.2:1935/8046/8046/playlist.m3u8
+
+#EXTINF:-1,Unknown (8072)
+http://184.173.181.2:1935/8072/8072/playlist.m3u8
+
+#EXTINF:-1,Unknown 25
+http://184.173.181.2:1935/8076/8076/playlist.m3u8
+
+#EXTINF:-1,Sony Movie Channel
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1,ABC News (Opción 2)
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1,WWSB Live
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1,WTTV Breaking
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+
+#EXTINF:-1,WPXI
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
